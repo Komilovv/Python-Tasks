@@ -16,3 +16,4 @@ print("yuzi=",125**2,"perimetri=",125*4,)
 print("S=",3.14*6**2)
 # Katetlari 6 va 7 bo`lgan to`g`ri burchakli uchburchakning gipotenuzasini toping.
 print((6**2+7**2)**(1/2))
+print("This is my first code")
